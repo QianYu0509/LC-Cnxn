@@ -1,5 +1,5 @@
 import os
-os.chdir('/Users/luobingqing/Desktop')
+os.chdir('/Users/Desktop')
 import scipy as sp  
 import pandas as pd
 import numpy as np
